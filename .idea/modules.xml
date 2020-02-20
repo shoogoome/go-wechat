@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/go-wechat.iml" filepath="$PROJECT_DIR$/.idea/go-wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gowechat/.idea/gowechat.iml" filepath="$PROJECT_DIR$/../gowechat/.idea/gowechat.iml" />
     </modules>
   </component>
 </project>

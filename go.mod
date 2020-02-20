@@ -1,1 +1,1 @@
-module "go-wechat"
+module "github.com/shoogoome/gowechat"
